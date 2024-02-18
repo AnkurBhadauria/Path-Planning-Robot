@@ -23,8 +23,8 @@
   <ul>
   <li>Team Members 
     <ul>
-      <li><a href="https://github.com/dhanrajchaurasia">Dhanraj Chaurasia</a></li>
-      <li><a href="#">Shaurya Raj Srivastava</a></li>
+      <li><a href="https://github.com/ankurbhadauria">Ankur Bhadauria</a></li>
+    
     </ul>
   </li>  
   <li> Mentor
